@@ -62,5 +62,6 @@ CHIP ALU {
 
     Or8Way(in= out07, out= zr1);
     Or8Way(in= out815, out= zr2);
-    Or(a= zr1, b= zr2, out= zr);
+    Or(a= zr1, b= zr2, out= notzr);
+    Not(in= notzr, out= zr);
 }
