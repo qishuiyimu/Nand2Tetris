@@ -1,1 +1,1 @@
-Nand2Tetris是一门兼顾计算机硬件和软件的课程，很好的抽象出计算机当中的重要概念，却又忽略了现代计算机的一些复杂特性。课程从与非门讲起，一步一步构建起一台电脑，并最终在上面运行一个程序。
+Nand2Tetris is a course that integrates both computer hardware and software, abstracting the essential concepts of a computer while omitting some of the complexities found in modern systems. The course starts with the NAND gate and incrementally builds up a complete computer, ultimately running a program on it.
